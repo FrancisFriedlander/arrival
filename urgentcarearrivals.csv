@@ -1,4 +1,4 @@
-day,daynum,daytype,daytypenum,timebucket,nbarrivals
+Day,Daynum,Daytype,Daytypenum,Timebucket,Nbarrivals
 Fri,5,Workday,1,000,0
 Fri,5,Workday,1,050,0
 Fri,5,Workday,1,100,0
